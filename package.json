@@ -1,6 +1,6 @@
 {
   "name": "h_js_util",
-  "version": "1.0.202202802",
+  "version": "1.0.202202803",
   "description": "",
   "main": "./src/index.js",
   "typings": "./types/interface.d.ts",
