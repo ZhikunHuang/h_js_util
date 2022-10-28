@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.11.7"
+  },
+  "repository": {
+    "url": "https://github.com/ZhikunHuang/h_js_util"
   }
 }
