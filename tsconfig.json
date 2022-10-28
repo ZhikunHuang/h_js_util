@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "System", 
+      "allowJs": false,
+      "inlineSourceMap": true,
+      "outFile": "./src/index.js",
+      "types": [
+        // ... your other types
+        "node"
+      ],
+    }
+  }
